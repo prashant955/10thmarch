@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="POMDemo.LoginTest"/>
+      <class name="POMDemo.DashBoardTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
