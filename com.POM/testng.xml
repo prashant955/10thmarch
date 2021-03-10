@@ -5,6 +5,7 @@
     <classes>
       <class name="POMDemo.LoginTest"/>
       <class name="POMDemo.DashBoardTest"/>
+      <class name="POMDemo.UserPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
